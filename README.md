@@ -46,7 +46,7 @@ Welcome to the Portfolio Landing Page repository! This project serves as a centr
 ## Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/portfolio-landing-page.git
+   git clone [https://github.com/yourusername/portfolio-landing-page.git](https://github.com/Bennyonye/Building-Portfolio.git)
    ```
 2. **Navigate to the Project Directory:**
    ```bash
@@ -59,9 +59,6 @@ Welcome to the Portfolio Landing Page repository! This project serves as a centr
 
 ## Contributing
 If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-## License
-This project is licensed under the MIT License.
 
 ## Contact
 If you have any questions or suggestions, feel free to contact me at [benedictigbukolu@gmail.com](mailto:bendictigbukolu@gmail.com).
