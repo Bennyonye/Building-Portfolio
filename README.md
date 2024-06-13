@@ -33,10 +33,10 @@ Welcome to the Portfolio Landing Page repository! This project serves as a centr
 - **Project Repo:** Link to the GitHub repository for the project.
 
 ### Contact
-- **Email:** [Email.com](mailto:benedictigbukolu@gmail.com)
-- **LinkedIn:** [LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/igbukolubenedict-70a697237))
-- **GitHub:** [GitHub Profile]([https://github.com/yourusername](https://github.com/Bennyonye))
-- **Twitter:** [Twitter Profile]([https://twitter.com/yourprofile](https://twitter.com/bennny_onye))
+- **Email:** (mailto:benedictigbukolu@gmail.com)
+- **LinkedIn:** ([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/igbukolubenedict-70a697237))
+- **GitHub:** ([https://github.com/yourusername](https://github.com/Bennyonye))
+- **Twitter:** ([https://twitter.com/yourprofile](https://twitter.com/bennny_onye))
 
 ## Technologies Used
 - **HTML:** Structure and content of the webpage.
