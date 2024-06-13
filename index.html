@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Project Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <img src="asset/benny.pics.2.jpg" alt="Project Cover Image" class="cover-image">
+        <div class="hero-content">
+            <h1>My Portfolio Project</h1>
+            <p>Discover the latest in web development.</p>
+            <a href="https://yourapp.herokuapp.com" target="_blank" class="cta">View Deployed App</a>
+        </div>
+    </section>
+
+    <section id="features">
+        <h2>Features</h2>
+        <div class="feature">
+            <img src="asset/project-1.png" alt="Feature 1 Image" class="feature-image">
+            <h3>Dynamic and Responsive Design</h3>
+            <p>Experience a visually stunning and user-friendly landing page designed to showcase the elegance and power of Nissan and Infiniti sport cars. Built with HTML, CSS, and JavaScript, this page features dynamic animations powered by the ScrollReveal library, ensuring an engaging and immersive user experience across all devices.</p>
+        </div>
+        <div class="feature">
+            <img src="asset/project-2.png" alt="Feature 2 Image" class="feature-image">
+            <h3>Real-time Language Translation</h3>
+            <p>Break language barriers with our Translator App, which offers real-time translation between multiple languages. The intuitive interface and instant translation capabilities make it easy for users to communicate effectively in different languages. Ideal for travelers, students, and professionals working in a global environment.</p>
+        </div>
+        <div class="feature">
+            <img src="asset/project-3.png" alt="Feature 3 Image" class="feature-image">
+            <h3>Efficient Task Management</h3>
+            <p>Stay organized and increase your productivity with our To-Do List App. This simple yet powerful tool allows you to create, manage, and prioritize tasks effortlessly. Features include due dates, reminders, and categorization to help you stay on top of your daily responsibilities and long-term goals.</p>
+        </div>
+    </section>
+
+    <section id="about">
+        <h2>About the Project</h2>
+        <p>This project was inspired by my passion for web development and the desire to create a dynamic, user-friendly application that showcases my skills. This is a Portfolio Project for ALX SC Foundation, completed within a challenging timeline to demonstrate my capabilities.</p>
+        <h3>Team Members</h3>
+        <ul>
+            <li>
+                <strong>Benedict Igbukolu</strong> - <a href="https://www.linkedin.com/in/igbukolubenedict-70a697237" target="_blank">LinkedIn</a> | <a href="https://github.com/Bennyonye" target="_blank">GitHub</a> | <a href="https://twitter.com/bennny_onye" target="_blank">Twitter</a>
+            </li>
+            <li>
+                <strong>Daniel Izevbije</strong> - <a href="https://www.linkedin.com/in/danielizevbije" target="_blank">LinkedIn</a> | <a href="https://github.com/danielizevbije" target="_blank">GitHub</a> | <a href="https://twitter.com/danielizevbije" target="_blank">Twitter</a>
+            </li>
+        </ul>
+        <a href="https://github.com/yourusername/yourproject" target="_blank" class="cta">View Project on GitHub</a>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>If you have any questions, feel free to reach out! I would love to hear from you and discuss any potential collaborations or opportunities.</p>
+        <div class="contact-methods">
+            <a href="mailto:benedictigbukolu@gmail.com" class="cta">Email Me</a>
+            <a href="https://www.linkedin.com/in/igbukolubenedict-70a697237" target="_blank" class="cta">LinkedIn</a>
+            <a href="https://github.com/Bennyonye" target="_blank" class="cta">GitHub</a>
+            <a href="https://twitter.com/bennny_onye" target="_blank" class="cta">Twitter</a>
+        </div>
+        <form action="https://formspree.io/f/yourFormID" method="POST">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required>
+    
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+    
+            <label for="message">Message</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+    
+            <button type="submit" class="cta">Send Message</button>
+        </form>
+    </section>
+    
+
+    <footer>
+        <p>&copy; 2024 Bennyonye. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
